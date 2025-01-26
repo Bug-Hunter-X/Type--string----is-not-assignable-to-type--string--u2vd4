@@ -1,0 +1,1 @@
+This bug demonstrates a common type error in TypeScript.  The `greeter` function expects a string argument, but we're passing an array of strings.  The solution involves either modifying the `greeter` function to accept an array or modifying the way the `user` variable is handled.
